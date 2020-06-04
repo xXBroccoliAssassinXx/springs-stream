@@ -37,6 +37,11 @@ li a:hover:not(.active) {
   <li><a class="active" href="#home.html">Home</a></li>
   <li><a href="#about.html">About</a></li>
   <li><a href="#sports.html">Sports</a></li>
+  <div class="dropdown-content">
+      <a href="#rugger.html">Rugby</a>
+      <a href="#basket.html">Basketball</a>
+      <a href="#cricketlads.html">Cricket</a>
+    </div>
   <li><a href="#music.html"></a></li>
   <li><a href="#arts.html"></a></li>
 </ul>
